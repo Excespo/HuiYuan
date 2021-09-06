@@ -1,0 +1,46 @@
+.
+├── data
+│   ├── keywords_dict.txt
+│   ├── keywords_list.txt
+│   ├── user_data.txt
+│   ├── user_name.txt
+│   └── 信息提取.ipynb
+├── model
+│   ├── chinese_wwm_ext_pytorch
+│   │   ├── bert_config.json
+│   │   ├── pytorch_model.bin
+│   │   └── vocab.txt
+│   ├── __init__.py
+│   ├── loader.py
+│   ├── model test.ipynb
+│   └── __pycache__
+│       ├── __init__.cpython-38.pyc
+│       └── loader.cpython-38.pyc
+├── README.md
+├── ref
+│   ├── 1-35.60616f2.jpg
+│   ├── 3.c9bdffd.jpg
+│   ├── 6-267.ce40026.jpg
+│   ├── 6.77ffbee.jpg
+│   ├── Attention is All you Need.pdf
+│   ├── BERT origin_google.pdf
+│   ├── 推荐系统line.jpg
+│   └── 深度学习推荐系统.pdf
+├── run.py
+├── tests
+│   ├── __init__.py
+│   ├── path.py
+│   ├── test_keywords4doc.py
+│   └── test_loader_word2vec.py
+├── tree.txt
+├── tree_under_linux.txt
+├── utils
+│   ├── __init__.py
+│   ├── keywords4doc.py
+│   └── __pycache__
+│       ├── __init__.cpython-38.pyc
+│       └── keywords4doc.cpython-38.pyc
+└── .vscode
+    └── sftp.json
+
+9 directories, 34 files
